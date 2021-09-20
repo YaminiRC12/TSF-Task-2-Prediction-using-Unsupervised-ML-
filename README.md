@@ -1,1 +1,3 @@
-# TSF-Task-2-Prediction-using-Unsupervised-ML-
+# TSF-Task2-Prediction using Unsupervised ML
+This is my Task-2 as a Data Science and Business Analytics Intern at The Sparks Foundation.The task was supposed to predict the optimum number of clusters from the given iris dataset and represent it visually.using Unsupervised Machine Learning Algorithm. Python language is used
+The task related Data can be found at web url https://bit.ly/3kXTdox. This dataset can be downloaded locally or can access directly in the code. Since iris dataset is a wellknown dats set available directly in the python library sklearn.datasets, I have imported the same directly in to my code.
